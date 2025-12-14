@@ -70,7 +70,7 @@ font-family: 'Raleway', sans-serif;
 .header-address {
     font-style: normal;
     }
-.header-address a {
+.header-address{
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -91,6 +91,7 @@ font-family: 'Raleway', sans-serif;
 
 .hero-title {
     font-weight: 700;
+    line-height: 1.2;
         font-size: 56px;
         letter-spacing: 0.02em;
         text-align: center;
@@ -174,7 +175,7 @@ font-family: 'Raleway', sans-serif;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        text-align: left;
+        text-align: center;
         color: #2e2f42;
         margin: 0 auto;
 }
@@ -184,12 +185,12 @@ font-family: 'Raleway', sans-serif;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
-            text-align: left;
+            text-align: center;
             color: #434455;
             margin: 0 auto;
 }
 .team-item img {
-    background-color: #ffffff
+    background-color: #ffffff;
     width: 264px;
     height: 260px;
 }
@@ -216,7 +217,7 @@ font-family: 'Raleway', sans-serif;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        text-align: left
+        text-align: left;
         color: #2e2f42;
 }
 
